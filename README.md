@@ -1,4 +1,5 @@
-![Sahil Hooda Banner](https://capsule-render.vercel.app/api?type=waving&color=0:00bfff,100:1e90ff&height=200&section=header&text=Hi,%20I'm%20Sahil%20Hooda!%20🚀&fontSize=40&fontAlignY=35&desc=Data%20Analyst%20%7C%20Python%20%7C%20SQL%20%7C%20Power%20BI&descAlignY=60&animation=fadeIn](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Sahil%20Hooda&reversal=false&textBg=false)
+![Sahil Hooda Banner](https://capsule-render.vercel.app/api?type=waving&color=0:00bfff,100:1e90ff&height=200&section=header&text=Hi,%20I'm%20Sahil%20Hooda!%20🚀&fontSize=40&fontAlignY=35&desc=Power%20BI%20%7C%20SQL%20%7C%20Python%20%7C%20Data%20Analyst&descAlignY=60&animation=fadeIn)
+
 
 
 <p align="center">
